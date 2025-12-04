@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at University of Genoa.
 
-Currently in Erasmus in Seville, Spain
+I've studied at Universidad de Sevilla during my Erasmus between February and July 2025.
 
 <!--
 **alericci-dev/alericci-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
